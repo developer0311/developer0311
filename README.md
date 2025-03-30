@@ -10,7 +10,8 @@
 - 🔭 I’m currently working on **Web Development & ML Projects**  
 - 🌱 I’m learning **Deep Learning & IoT**  
 - 💡 Fun fact: I love solving **real-world tech problems**  
-- 📫 How to reach me: **[Email Me](mailto:dipratidas2004@gmail.com)**  
+- 📫 **Reach me at:** [developer0311@yourmail.com](mailto:developer0311@yourmail.com)
+ 
 
 ---
 
